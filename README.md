@@ -1,5 +1,13 @@
 # HackerNews
 
+If I had more time I would have added the following:
+
+1) Fully responsive design.
+2) Pagination or a 'load more' button which would gradually import data using AJAX.
+3) Display deep nested data (Replies to comments).
+4) Would have been good to have an elastic search function. Could be done fairly easily.
+4) Overall design would look much better! This was just a quick demo. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
 ## Development server

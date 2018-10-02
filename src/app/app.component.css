@@ -1,0 +1,21 @@
+.mgTop20 {
+  margin-top: 20px;
+}
+.mgTop30 {
+  margin-top: 30px;
+}
+.hiddenRow {
+    padding: 0 !important;
+}
+.pd20 {
+  padding: 20px;
+}
+.modal-dialog {
+  max-width: 80%;
+}
+.txtRight {
+  text-align: right;
+}
+.card {
+  margin: 20px 0px;
+}
